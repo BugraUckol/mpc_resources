@@ -51,3 +51,8 @@ It includes:
 
 ## Mohamed W. Mehrez
 Has [videos on YouTube](https://www.youtube.com/@MohamedWMehrez) using CasADi. Direct implementation. 
+
+# Tools
+
+## CasAdi
+[CasADi](https://web.casadi.org/) is the interface between OCP and Optimizer. Very useful, free software. Can be used with Matlab, Python and, Cpp. Their [example pack](https://github.com/casadi/casadi/tree/main/docs/examples) has really nice introductory-examples.
