@@ -1,6 +1,9 @@
 # MPC Resources
 General resources for MPC (Model Predictive Control) and general Optimal Control
 
+## Dimitri P. Bertsekas
+Prof. MIT
+Not an MPC but general optimal control resource. Bridges the gap between MPC and RL. Has a free book [REINFORCEMENT LEARNING AND OPTIMAL CONTROL](http://web.mit.edu/dimitrib/www/RLbook.html), lecture notes and videos. He [claims](https://www.youtube.com/watch?v=UeVs0Op-Ui4) that the MPC and RL are not different essentially. His 2025 course includes MPC topic as well and he had started uploading [videos](https://www.youtube.com/watch?v=AdxhPj0PDHM).
 
 ## Matthew P. Kelly
 Boston Dynamics & Cornell
@@ -16,10 +19,6 @@ He has a [website](http://www.matthewpeterkelly.com/) with really good [tutorial
 * Numerical integration
 * Nonlinear-programming
 * Which software to use with details
-
-## Dimitri P. Bertsekas
-Prof. MIT
-Not an MPC but general optimal control resource. Bridges the gap between MPC and RL. Has a free book [REINFORCEMENT LEARNING AND OPTIMAL CONTROL](http://web.mit.edu/dimitrib/www/RLbook.html), lecture notes and videos. He [claims](https://www.youtube.com/watch?v=UeVs0Op-Ui4) that the MPC and RL are not different essentially.
 
 ## Jesus Tordesillas
 A nice [YouTube video](https://www.youtube.com/watch?v=j82Ia436DYY)
